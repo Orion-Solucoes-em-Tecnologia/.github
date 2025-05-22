@@ -59,7 +59,7 @@ Quer colaborar com a Orion ou saber mais? Fale com a gente!
 
 - 🌐 Site: [orion.dev](https://orion.dev)
 - ✉️ Email: contato@orion.dev
-- 🧑‍🚀 GitHub: [@ORGANIZACAO_ORION](https://github.com/ORGANIZACAO_ORION)
+- 🧑‍🚀 GitHub: [@ORION](https://github.com/Orion-Solucoes-em-Tecnologia)
 
 ---
 
